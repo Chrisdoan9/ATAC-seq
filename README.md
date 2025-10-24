@@ -1,3 +1,11 @@
+## Key steps:
+
+1.	Quality control (raw reads)
+2.	Adapter trimming
+3.	Alignment
+4.	Filtering, quality metrics
+5.	Peak calling
+6.	Downstream analysis
 ## Fragment size distribution  
  Periodicity pattern:  
 	•	<100 bp = nucleosome-free fragments.  
