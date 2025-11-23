@@ -2,10 +2,10 @@
 
 1.	Quality control (raw reads)
 2.	Adapter trimming
-3.	Alignment
+3.	Alignment with Bowtie2
 4.	Filtering, quality metrics
 5.	Peak calling
-6.	Downstream analysis
+6.	Downstream analysis: peak annotation + motif analysis
 ## Fragment size distribution  
  Periodicity pattern:  
 	•	<100 bp = nucleosome-free fragments.  
